@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Coarse Error Processing for Hybrid State Estimators
 
 - ⚡ Fun fact: the colours of lightsabers had a meaning
+
+![Snake animation](https://github.com/laisdallemulle/laisdallemulle/blob/output/github-contribution-grid-snake.svg)
