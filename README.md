@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [laisdallemulle@gmail.com](mailto:laisdallemulle@gmail.com)
 
-- 🌱 I’m currently learning Coarse Error Processing for Hybrid State Estimators
+- 🌱 I’m currently learning bad data processing for hybrid state estimators
 
 - ⚡ Fun fact: the colours of lightsabers had a meaning
